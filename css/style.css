@@ -16,7 +16,7 @@ html, body{
   place-items: center;
 }
 body {
-  background-image: url('img.jpg');
+  background-image: url('../assets/image/img.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100% 100%;
