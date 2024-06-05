@@ -45,6 +45,7 @@ Contributions are welcome! If you have any improvements, suggestions, or bug fix
 
 ## Task Preview
 
+![task preview (3)](https://github.com/Sneha-Khandar/Login-Page/assets/168733144/9be3f440-294d-453d-a07a-df1e394bd885)
 
 ## Contact
 
